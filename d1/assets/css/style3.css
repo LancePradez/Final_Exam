@@ -1,0 +1,34 @@
+h1{
+	color:black !important;
+	text-align: center;
+	font-size: 2rem;
+}
+nav {
+	background-color: red;
+}
+a:hover{
+	background-color: #b4d6de;
+	font-size: 32px;
+}
+h1, h2, p{
+	color:black !important;
+	text-align: center;
+	font-size: 2rem;
+}
+div{
+	display: inline-block;
+	float: right;
+}
+
+body {
+	background-color: orange;
+}
+section{
+	height: 100vh;
+	text-align: center;
+}
+img{
+	width: 300px;
+	border: 1px solid red;
+	border-radius: 150px;
+}

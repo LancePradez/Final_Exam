@@ -1,0 +1,45 @@
+html{
+	scroll-behavior: smooth;
+
+}
+*{
+
+	font-family: "Times new roman", monospace;
+	font-size:20px;
+}
+.offering-item{
+	text-transform: uppercase;
+}
+ol{
+	list-style-type: none;
+	text-align: center;
+}
+nav {
+	background-color: red;
+}
+
+a:hover{
+	background-color: #b4d6de;
+	font-size: 32px;
+}
+h1{
+	color:black !important;
+	text-align: center;
+	font-size: 2rem;
+}
+div{
+	display: inline-block;
+	float: right;
+}
+p {
+	color: Black;
+	font-size: 36px;
+	text-align: center;
+	}
+body {
+	background-color: orange;
+}
+section{
+	height: 100vh;
+	text-align: center;
+}

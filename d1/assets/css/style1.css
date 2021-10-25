@@ -1,0 +1,33 @@
+img{
+	width: 300px;
+	border: 1px solid red;
+}
+*{
+
+	font-family: "Times new roman", monospace;
+	font-size:20px;
+}
+body {
+	background-color: orange;
+}
+nav {
+	background-color: red;
+}
+
+a:hover{
+	background-color: #b4d6de;
+	font-size: 32px;
+}
+
+div{
+	display: inline-block;
+	float: right;
+}
+h1{
+	color:black !important;
+	text-align: center;
+	font-size: 2rem;
+}
+section {
+	text-align: center;
+}
